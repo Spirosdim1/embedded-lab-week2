@@ -1,0 +1,6 @@
+arduino-cli.exe
+build/
+IMAGES/
+*.png
+*.jpg
+*.jpeg

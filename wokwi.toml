@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "build/embedded week2.ino.hex"
+elf = "build/embedded week2.ino.elf"
